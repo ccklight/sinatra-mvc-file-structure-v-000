@@ -7,7 +7,7 @@ class Dog
     @name = name
     @breed = breed
     @age = age
-    @@all < dog
+  
     DOGS << self
   end
 
