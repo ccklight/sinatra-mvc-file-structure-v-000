@@ -7,8 +7,8 @@ class Dog
     @dog = dog
   end
 
-  def dog 
+  def dog
     @dog = dog 
-  end 
+  end
   #@@all < dog
 end
