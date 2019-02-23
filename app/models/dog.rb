@@ -10,5 +10,5 @@ class Dog
   def dog
     @dog = dog
   end
-  @@all < dog
+  #@@all < dog
 end
