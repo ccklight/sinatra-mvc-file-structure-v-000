@@ -1,9 +1,9 @@
-class Dog 
-  attr_accessor :name, :breed, :age 
+class Dog
+  attr_accessor :name, :breed, :age
 
-  def initialize 
+  def initialize
     @dog = dog 
-  end 
+  end
 
 
-end 
+end
