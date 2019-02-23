@@ -12,7 +12,6 @@ class Dog
   end
   #@@all < dog
 end
-
 ********
 class Dog
   attr_accessor :name, :breed, :age
